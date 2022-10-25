@@ -1,1 +1,1 @@
-# Lucky-7 Frontend
+# Lucky Frontend
